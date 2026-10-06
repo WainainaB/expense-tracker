@@ -1,0 +1,1 @@
+# Ensures the backend/ folder is on sys.path so tests can `from app... import ...`
